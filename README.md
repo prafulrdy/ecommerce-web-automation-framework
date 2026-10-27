@@ -31,3 +31,8 @@ docs
 test-cases
 .github/workflows
 ```
+## CI/CD Test Execution
+
+GitHub Actions automatically runs the Selenium regression suite in headless Chrome on every push and pull request.
+
+![GitHub Actions Success](docs/screenshots/github-actions-success.png)
